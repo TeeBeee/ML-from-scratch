@@ -1,5 +1,5 @@
 # Virtual environment
-venv/
+pers/
 gen_ai/
 
 # Python
@@ -14,3 +14,5 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+.gitignore
