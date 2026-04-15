@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+gen_ai/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
